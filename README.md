@@ -1,3 +1,6 @@
+<h3> To run the program, make sure you have python installed to execute the following command:</h3>
+<code> python.exe main.py </code>
+
 <h1> Project Description </h1>
 
 <p>
